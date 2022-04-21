@@ -63,9 +63,7 @@ def main():
 		)
 	
 	net = HuEtAl(
-		# 入力次元数
         input_channels=CHANNELS,
-		# クラス数
         n_classes=N_CLASS
 		)
 	net = net.to(device)
