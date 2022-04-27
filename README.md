@@ -10,6 +10,7 @@ Indian Pines（IP）とBotswana（BW）のデータの詳細は，それぞれ`I
 `IP.md`，`BW.md`で読み込んだ`target`を参考にして，ラベル付けされた画素を全て取り出してください．
 
 ### 使わないクラスを除く
+こちらも`IP.md`，`BW.md`を参照してやってみてください．
 
 ### 学習（Train）と検証（Validation）
 
