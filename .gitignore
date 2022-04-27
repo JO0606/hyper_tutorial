@@ -2,3 +2,4 @@ __pycache__
 mlruns
 *.pth
 sample_*
+.DS_Store
